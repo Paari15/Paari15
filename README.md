@@ -1,7 +1,7 @@
 # Hi, I'm Paari! 👋
 
 ## 🚀 About Me
-- 🔭 I’m working on a **Notes App** & **Sora Modules**
+- 🔭 I’m working on a 
 - 🌱 I’m currently learning **MERN & Android Dev**
 - ⚡ Fun fact: I love **tweaking UIs** to look like Apple Notes! 🍏
 
