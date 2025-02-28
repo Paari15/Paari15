@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paari-c/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paarichandran15@gmail.com) 
