@@ -10,10 +10,9 @@
 📚 **Studying at:** Karpagam College of Engineering, India  
 🎯 **Mission:** Build something impactful, efficient, and **money-making**!  
 🎮 **Hobbies:** Anime, coding, automation, and making life easier with tech  
-📮 **Reach me on:** Discord, Twitter, or email at [your email]
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paari-c/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paarichandran15@gmail.com) 
+📮 **Reach me on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paari-c/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paarichandran15@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/730396237798440962)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Paari15&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
