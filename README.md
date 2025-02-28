@@ -1,3 +1,16 @@
+# Hey, I'm Paari 👋  
+
+## 🚀 About Me  
+💻 **Software Engineer in the Making** | 🎓 **Final Year CS Student** | ⚡ **Tech Enthusiast & Builder**  
+
+🔭 **Currently Building:**   
+- **🔋 Battery Widget** → Unified battery status for iPhone, AirPods & Windows  
+
+🌱 **Learning:** MERN Stack, Python, Java, and AI integration  
+📚 **Studying at:** Karpagam College of Engineering, India  
+🎯 **Mission:** Build something impactful, efficient, and **money-making**!  
+🎮 **Hobbies:** Anime, coding, automation, and making life easier with tech  
+📮 **Reach me on:** Discord, Twitter, or email at [your email]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paari-c/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paarichandran15@gmail.com) 
